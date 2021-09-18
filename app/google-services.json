@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "585844764766",
+    "firebase_url": "https://whitewall-b7089-default-rtdb.firebaseio.com",
+    "project_id": "whitewall-b7089",
+    "storage_bucket": "whitewall-b7089.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585844764766:android:3266568faaa32fe75644cf",
+        "android_client_info": {
+          "package_name": "com.example.whitewall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585844764766-4fhblb4nef6c3i8bf2j0ivn34um2e01k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVvjS-KU7P5nZoGg2oEMK3O4OlDbhhECs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585844764766-4fhblb4nef6c3i8bf2j0ivn34um2e01k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
